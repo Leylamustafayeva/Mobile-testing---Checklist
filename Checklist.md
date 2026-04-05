@@ -1,7 +1,7 @@
 **Checklist**
 
 **Functional Testing**
-- [ ]Forgot password funksiyası uğurla test edildi.  
+- [x] Forgot password funksiyası uğurla test edildi.  
 - [ ] Logout işləyir.  
 - [ ] Menu düymələri işləyir və müvafiq səhifəyə yönləndirir.  
 - [ ] Payment Testing - İstifadəçi asanlıqla lazımi ödənişi (internet və s.) edə bilir və nəticədə istifadəçi balansı azalır.  
